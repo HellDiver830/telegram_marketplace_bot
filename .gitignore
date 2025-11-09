@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Логи / временное
+*.log
+*.sqlite3
+
+# Env-файлы
+.env
+.env.*
+
+# IDE / редакторы
+.vscode/
+.idea/
+*.iml
+
+# Прочий мусор
+.DS_Store
+Thumbs.db
+
